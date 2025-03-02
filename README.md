@@ -22,13 +22,13 @@ Frontend: HTML, CSS, JavaScript
 
 Assets: Images and logos of various companies
 
-Installation & Setup
+**Installation & Setup**
 
 Clone or download the repository.
 
 Open index.html in a web browser to run the project.
 
-Usage
+**Usage**
 
 Open the homepage to view available job listings.
 
@@ -36,7 +36,7 @@ Click on job postings for more details.
 
 Navigate to company profiles to learn about hiring organizations.
 
-Future Enhancements
+**Future Enhancements**
 
 Implement a backend for user authentication and job applications.
 
