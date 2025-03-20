@@ -14,7 +14,7 @@ User-Friendly UI: Clean and modern design for a seamless job search experience.
 
 Responsive Design: Optimized for both desktop and mobile devices.
 
-**Link for Project** - https://drive.google.com/file/d/1kS4hfkUaNd7xFaifvVlPjPU4BpMetKQl/view?usp=sharing
+**Link for Project** https://eizjobportal.netlify.app/
 
 **Technologies Used**
 
@@ -27,6 +27,8 @@ Assets: Images and logos of various companies
 Clone or download the repository.
 
 Open index.html in a web browser to run the project.
+
+![Screenshot (177)](https://github.com/user-attachments/assets/133bc446-a881-4a0a-b73f-7939f432fb96)
 
 **Usage**
 
